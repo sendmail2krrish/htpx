@@ -1,3 +1,5 @@
+### Note: this project has been transferred to [https://github.com/typhoonts/typhoonts](https://github.com/htpx-js/htpx)
+
 # HTPX - HTTP Client
 
 ### Version - 1.2.0
